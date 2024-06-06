@@ -14,3 +14,8 @@ The following machine learning models were explored and evaluated for the predic
 - Utilizes a machine learning model trained on historical loan data.
 - Provides a user-friendly interface for inputting loan application details.
 - Stores client information and prediction results in a SQLite database.
+
+## More Information
+
+Please go through [Loan_Prediction](Loan-Approval-Prediction/Loan Prediction.pptx) for more information.
+
