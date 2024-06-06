@@ -17,4 +17,5 @@ The following machine learning models were explored and evaluated for the predic
 
 ## More Information
 
-Please go through [here](Loan Prediction.ppxt) for more information.
+Please go through [here](Loan_Prediction.pptx) for more information.
+
