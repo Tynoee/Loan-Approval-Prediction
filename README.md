@@ -17,8 +17,6 @@ The following machine learning models were explored and evaluated for the predic
 
 <img src="app.png" alt="Alt Text" width="500" height="500">
 
-![Alt text](app.png)
-
 ## More Information
 
 Please go through [Loan_Prediction](LoanPrediction.pptx) for more information.
