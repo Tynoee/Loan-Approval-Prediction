@@ -15,6 +15,8 @@ The following machine learning models were explored and evaluated for the predic
 - Provides a user-friendly interface for inputting loan application details.
 - Stores client information and prediction results in a SQLite database.
 
+<img src="app.png" alt="Alt Text" width="500" height="300">
+
 ![Alt text](app.png)
 
 ## More Information
